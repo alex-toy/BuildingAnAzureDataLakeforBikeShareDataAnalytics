@@ -29,3 +29,22 @@ The business outcomes we are designing for are as follows:
 Hint: To view your DBFS files, enable the DBFS file browser in Databricks by going to Admin Console -> Workspace Settings -> Advanced
 
 Hint: If you are going to use PySpark Pandas, make sure you create your Spark Cluster using a Databricks runtime >= 10.0
+
+
+
+
+# Steps To Reproduce The project
+
+## Task1 : Creating resources
+
+1. Create an **Azure Databricks Workspace**
+<img src="/pictures/databricks-workspace1.png" title="databricks workspace"  width="500">
+
+2. Create a **Spark Cluster** inside the **Databricks Workspace**.
+The real power of Databricks comes from the Apache Spark compute power available on-demand from Azure.
+To add and monitor the Apache Spark compute power associated with our workspace, we access the Computer node from the main Databricks workspace menu.
+
+Select **Compute** tab and hit  **Create Cluster**:
+
+<img src="/pictures/cluster1.png" title="spark clsuter"  width="500">
+<img src="/pictures/cluster2.png" title="spark clsuter"  width="500">
