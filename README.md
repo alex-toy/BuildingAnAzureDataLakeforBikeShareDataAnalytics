@@ -80,5 +80,5 @@ You should then see your files in the filestore
 Check that your data has been created as tables
 <img src="/pictures/delta2.png" title="delta"  width="500">
 
-3. Create **Star Model** tables
-<img src="/pictures/delta.png" title="delta"  width="500">
+3. Run *business_questions.ipynb* in order to answer business questions
+<img src="/pictures/business_questions.png" title="businessn questions"  width="500">
