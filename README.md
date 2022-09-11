@@ -57,7 +57,7 @@ To add and monitor the Apache Spark compute power associated with our workspace,
 
 This method is useful for one time ingestion of data into the **DBFS**. This is not the preferred method for setting up a data pipeline that needs to run regularly. For that, you should integrate other Azure tools such as **Azure Data Factory** or **Azure Functions** for getting data into **Azure Databricks**.
 
-1. Go to **Data** tab and upload your data files
+1. Go to **Data** tab and upload your data files to *FileStore/tables*
 <img src="/pictures/upload_data1.png" title="upload data"  width="500">
 <img src="/pictures/upload_data2.png" title="upload data"  width="500">
 
