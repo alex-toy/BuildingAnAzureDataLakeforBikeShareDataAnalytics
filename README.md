@@ -32,6 +32,13 @@ Hint: If you are going to use PySpark Pandas, make sure you create your Spark Cl
 
 
 
+# Design a star schema
+
+Here is the star model that I have designed to answer the business questions :
+<img src="/pictures/star_model.png" title="star model"  width="700">
+
+
+
 
 # Steps To Reproduce The project
 
